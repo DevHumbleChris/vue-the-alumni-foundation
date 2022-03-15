@@ -111,7 +111,8 @@ const count = ref(0);
             data-aos-delay="300"
             class="leading-normal text-2xl mb-8"
           >
-            The Alumni Foundation is a platform dedicated into bringing closer both thestudents and their alumni.
+            The Alumni Foundation is a platform dedicated into bringing closer both
+            thestudents and their alumni.
           </p>
           <div
             data-aos="fade-up"
@@ -319,7 +320,9 @@ const count = ref(0);
           All-In-One <span class="text-yellow-500">Platform.</span>
         </h1>
         <p class="leading-relaxed text-gray-500">
-          The Alumni Foundation Platform is one powerful online platform that combines all the tools needed to run a successful interaction between the alumni and the students.
+          The Alumni Foundation Platform is one powerful online platform that combines all
+          the tools needed to run a successful interaction between the alumni and the
+          students.
         </p>
       </div>
       <!-- card -->
