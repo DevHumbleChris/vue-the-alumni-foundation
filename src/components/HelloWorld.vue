@@ -20,7 +20,7 @@ const count = ref(0);
             <a
               href="#"
               class="text-lg relative z-50 font-bold tracking-widest text-gray-900 rounded-lg focus:outline-none focus:shadow-outline"
-              >Skilline</a
+              >The Alumni Foundation</a
             >
             <svg
               class="h-11 z-40 absolute -top-2 -left-3"
@@ -102,7 +102,8 @@ const count = ref(0);
             data-aos-once="true"
             class="my-4 text-5xl font-bold leading-tight text-darken"
           >
-            <span class="text-yellow-500">Studying</span> Online is now much easier
+            <span class="text-yellow-500">The Alumni Foundation</span> making everything
+            easier
           </h1>
           <p
             data-aos="fade-down"
@@ -110,8 +111,7 @@ const count = ref(0);
             data-aos-delay="300"
             class="leading-normal text-2xl mb-8"
           >
-            Skilline is an interesting platform that will teach you in more an interactive
-            way
+            The Alumni Foundation is a platform dedicated into bringing closer both thestudents and their alumni.
           </p>
           <div
             data-aos="fade-up"
@@ -294,7 +294,7 @@ const count = ref(0);
     <div
       class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700 overflow-x-hidden"
     >
-      <!-- trusted by -->
+      <!-- trusted by
       <div class="max-w-4xl mx-auto">
         <h1 class="text-center mb-3 text-gray-400 font-medium">
           Trusted by 5,000+ Companies Worldwide
@@ -311,15 +311,15 @@ const count = ref(0);
           <img class="h-7" src="../assets/img/company/grab.svg" />
         </div>
       </div>
+      -->
 
       <!-- All-In-One Cloud Software. -->
       <div data-aos="flip-up" class="max-w-xl mx-auto text-center mt-24">
         <h1 class="font-bold text-darken my-3 text-2xl">
-          All-In-One <span class="text-yellow-500">Cloud Software.</span>
+          All-In-One <span class="text-yellow-500">Platform.</span>
         </h1>
         <p class="leading-relaxed text-gray-500">
-          Skilline is one powerful online software suite that combines all the tools
-          needed to run a successful school or office.
+          The Alumni Foundation Platform is one powerful online platform that combines all the tools needed to run a successful interaction between the alumni and the students.
         </p>
       </div>
       <!-- card -->
