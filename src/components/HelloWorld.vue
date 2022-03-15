@@ -111,8 +111,8 @@ const count = ref(0);
             data-aos-delay="300"
             class="leading-normal text-2xl mb-8"
           >
-            The Alumni Foundation is a platform dedicated into bringing closer both
-            thestudents and their alumni.
+            The Alumni Foundation is a platform dedicated into bringing closer both the
+            students and its alumni.
           </p>
           <div
             data-aos="fade-up"
@@ -295,7 +295,7 @@ const count = ref(0);
     <div
       class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700 overflow-x-hidden"
     >
-      <!-- trusted by
+      <!-- trusted by -->
       <div class="max-w-4xl mx-auto">
         <h1 class="text-center mb-3 text-gray-400 font-medium">
           Trusted by 5,000+ Companies Worldwide
@@ -312,7 +312,6 @@ const count = ref(0);
           <img class="h-7" src="../assets/img/company/grab.svg" />
         </div>
       </div>
-      -->
 
       <!-- All-In-One Cloud Software. -->
       <div data-aos="flip-up" class="max-w-xl mx-auto text-center mt-24">
