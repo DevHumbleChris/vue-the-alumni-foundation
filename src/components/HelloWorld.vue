@@ -471,7 +471,7 @@ const count = ref(0);
           class="flex flex-col md:flex-row justify-center space-y-5 md:space-y-0 md:space-x-6 lg:space-x-10 mt-7"
         >
           <div class="relative md:w-5/12">
-            <img class="rounded-2xl" src="../assets/img/Rectangle 19.png" alt="" />
+            <img class="rounded-2xl" src="../assets/img/Rectangle19.png" alt="" />
             <div
               class="absolute bg-black bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl"
             >
@@ -492,7 +492,7 @@ const count = ref(0);
             </div>
           </div>
           <div class="relative md:w-5/12">
-            <img class="rounded-2xl" src="../assets/img/Rectangle 21.png" alt="" />
+            <img class="rounded-2xl" src="../assets/img/Rectangle21.png" alt="" />
             <div
               class="absolute bg-black bg-opacity-20 bottom-0 left-0 right-0 w-full h-full rounded-2xl"
             >
