@@ -10,6 +10,7 @@ const isOpen = computed(() => {
 const openNavbar = () => {
   store.openNavbar();
 };
+const Author = "AmChrisKE";
 </script>
 
 <template>
