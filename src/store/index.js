@@ -4,12 +4,12 @@ export const useStore = defineStore('main', {
     state: () => {
         return {
             count: 0,
-            isOpen: false
+            isNavbarOpen: false
         }
     },
     actions: {
         openNavbar () {
-            this.isOpen = !this.isOpen
+            this.isNavbarOpen = !this.isNavbarOpen
         }
     }
 })
